@@ -1,0 +1,27 @@
+#heading{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+#googlelens{
+    width: 180;
+    height: 180;
+}
+#google_lensesicon{
+    font-size: 20px;
+    font-weight: bold;
+}
+#vs{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+#images_and_results{
+    background-color: grey;
+    border-radius: 20px;
+    border-color: red;
+}
+#waterbottle{
+    height: 200px;
+    width: 200;
+}
